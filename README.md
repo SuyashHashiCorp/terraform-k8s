@@ -23,6 +23,9 @@ To learn kubernetes, please follow learn guide at [suashk/](https://github.com/S
 
 <img width="1003" alt="image" src="https://user-images.githubusercontent.com/92308220/165730988-f2198303-ee82-4b36-9b38-529d08efa9b5.png">
 
+6. Update the values as per below table -
+<img width="845" alt="image" src="https://user-images.githubusercontent.com/92308220/165780621-b7d77e98-3e7e-4e15-891c-f1cab0c9428d.png">
+
 
 ## Usage/Examples
 
