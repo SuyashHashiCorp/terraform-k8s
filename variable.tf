@@ -65,11 +65,11 @@ variable "sg_id" {
 #UserPaths
 variable "scriptpaths" {
   type = string
-  default = [ "/Users/suyash/Projects/terraform-k8s/scripts/" ] #Update this path with your path where you cloned the git repository
+  default = "/Users/suyash/Projects/terraform-k8s/scripts/" #Update this path with your path where you cloned the git repository
 }
 
 #UserScripts
 variable "k8sconfigpaths" {
   type    = string
-  default = ["/Users/suyash/Projects/terraform-k8s/configs/"] #Update this path with your path where you cloned the git repository
+  default = "/Users/suyash/Projects/terraform-k8s/configs/" #Update this path with your path where you cloned the git repository
 }
